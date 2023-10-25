@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/huanhunmao/Advanced_NodeJs/issues"
   },
-  "homepage": "https://github.com/huanhunmao/Advanced_NodeJs#readme"
+  "homepage": "https://github.com/huanhunmao/Advanced_NodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
